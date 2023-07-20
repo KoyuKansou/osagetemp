@@ -3,12 +3,12 @@
     "contact": "https://discord.gg/inabakumori",
     "templates": [
         {
-            "name": "holopro",
+            "name": "Osage-chan Lag Train",
             "sources": [
-                "https://cdn.discordapp.com/attachments/805199293358014524/1131614562429440081/hs7gDhev.png"
+                "https://user-images.githubusercontent.com/65723952/254941810-d18a1911-6cb3-4c6e-ba6f-9eb39b4637b1.png"
             ],
-            "x": 927,
-            "y": 861,
+            "x": 960,
+            "y": 870,
             "frameWidth": null,
             "frameHeight": null,
             "frameRate": null,
