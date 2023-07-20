@@ -1,0 +1,21 @@
+{
+    "faction": "Inabakumori Station",
+    "contact": "https://discord.gg/inabakumori",
+    "templates": [
+        {
+            "name": "holopro",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/805199293358014524/1131614562429440081/hs7gDhev.png"
+            ],
+            "x": 927,
+            "y": 861,
+            "frameWidth": null,
+            "frameHeight": null,
+            "frameRate": null,
+            "frameCount": null,
+            "startTime": null,
+            "looping": null
+        }
+    ],
+    "whitelist": null
+}
